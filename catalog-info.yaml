@@ -8,4 +8,4 @@ spec:
   type: other
   lifecycle: unknown
   owner: team-a
-  dependsOn: ['resource:artists-db']
+  #dependsOn: ['resource:artists-db']
